@@ -14,7 +14,7 @@ This repository implements a fraud detection model using Flask and machine learn
 ### Project Structure
 
 ```
-fraud_detection/
+fraud_detection/app/
 ├── app.py              # Flask application main script
 ├── RF_model.joblib        # Serialized Random Forest model
 ├── requirements.txt     # Dependency list for project execution
