@@ -55,6 +55,10 @@ fraud_detection/app/
 3. Click "Submit" or press Enter.
 4. The app will display a prediction: "Not a Fraud" or "Fraud".
 
+> Demo
+
+<img src="./docs/image/Fraud_detection.jpeg" width="600" alt="architecture" >
+
 ### Model Details
 
 - The model is a Random Forest classifier trained on labeled transaction data.
